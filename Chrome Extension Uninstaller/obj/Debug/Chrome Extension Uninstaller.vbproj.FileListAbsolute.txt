@@ -1,0 +1,9 @@
+c:\users\knack\documents\visual studio 2013\Projects\Chrome Extension Uninstaller\Chrome Extension Uninstaller\bin\Debug\Chrome Extension Uninstaller.exe
+c:\users\knack\documents\visual studio 2013\Projects\Chrome Extension Uninstaller\Chrome Extension Uninstaller\bin\Debug\Chrome Extension Uninstaller.pdb
+c:\users\knack\documents\visual studio 2013\Projects\Chrome Extension Uninstaller\Chrome Extension Uninstaller\bin\Debug\Chrome Extension Uninstaller.xml
+c:\users\knack\documents\visual studio 2013\Projects\Chrome Extension Uninstaller\Chrome Extension Uninstaller\obj\Debug\Chrome_Extension_Uninstaller.Form1.resources
+c:\users\knack\documents\visual studio 2013\Projects\Chrome Extension Uninstaller\Chrome Extension Uninstaller\obj\Debug\Chrome_Extension_Uninstaller.Resources.resources
+c:\users\knack\documents\visual studio 2013\Projects\Chrome Extension Uninstaller\Chrome Extension Uninstaller\obj\Debug\Chrome Extension Uninstaller.vbproj.GenerateResource.Cache
+c:\users\knack\documents\visual studio 2013\Projects\Chrome Extension Uninstaller\Chrome Extension Uninstaller\obj\Debug\Chrome Extension Uninstaller.exe
+c:\users\knack\documents\visual studio 2013\Projects\Chrome Extension Uninstaller\Chrome Extension Uninstaller\obj\Debug\Chrome Extension Uninstaller.xml
+c:\users\knack\documents\visual studio 2013\Projects\Chrome Extension Uninstaller\Chrome Extension Uninstaller\obj\Debug\Chrome Extension Uninstaller.pdb
